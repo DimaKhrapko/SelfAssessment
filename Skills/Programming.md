@@ -1,17 +1,17 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model
-  - Modeling
+  - Model  k
+  - Modeling  k
   - Subject domain
-  - Algorithm
-  - Syntax
+  - Algorithm  k
+  - Syntax  k
   - Semantics
   - Abstraction
-  - Paradigm
-  - Programm
-  - Programming paradigm
-  - Programming language
+  - Paradigm  k
+  - Programm  k
+  - Programming paradigm  k
+  - Programming language  k
   - Contract
   - Module
   - Library
@@ -32,17 +32,17 @@
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value
-  - Identifier
-  - Variable
-  - Constant
-  - Scalar
-  - Literal
-  - Expression
+  - Value  u
+  - Identifier  u
+  - Variable  u
+  - Constant  u
+  - Scalar  k
+  - Literal  k
+  - Expression  k
   - Heap
-  - Function
+  - Function  u
   - Procedure
-  - Method
+  - Method  u
   - Class
   - Prototype
   - Event
@@ -51,23 +51,23 @@
   - Lexical scope
   - Code block
   - Conditions
-  - Loops
+  - Loops  u
   - Assignment
-  - Regular expression
+  - Regular expression  k
   - Interface
   - Namespaces
   - Call stack
   - Naming conventions
   - Coding conventions
-  - Camel case
-  - Snake case
-  - Kebab case
-  - Trailing commas
+  - Camel case  u
+  - Snake case  k
+  - Kebab case  k
+  - Trailing commas  k
   - Return early
   - Fail-fast
 - Types
-  - Primitive types
-  - Reference types
+  - Primitive types  u
+  - Reference types  k
   - Type systems
   - Strong typing
   - Weak typing
@@ -81,19 +81,19 @@
   - Covariance
   - Contravariance
 - Functions
-  - Signature
-  - Argument
-  - Parameter
-  - Pure function
-  - Lambda expression
+  - Signature  k
+  - Argument  k
+  - Parameter  k
+  - Pure function  k
+  - Lambda expression  u
   - Side effects
-  - Closure
+  - Closure  k
   - Partial application
   - Currying
   - Higher order
   - Recursion
   - Tail call optimisation
-  - Callback
+  - Callback  k
   - Listener
   - Composition
   - Pipe
@@ -105,15 +105,15 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array
+  - Array  u
   - Structure
   - Record
   - Enum
   - Instance
-  - Object
-  - Collection
-  - Set
-  - Hash table
+  - Object  k
+  - Collection  k
+  - Set  k
+  - Hash table  k
   - Linked list
   - Doubly list
   - Unrolled list
@@ -146,7 +146,7 @@
   - Just-in-time compilation
   - Ahead-of-time compilation
   - Transpiler
-  - Linter
+  - Linter  u
   - Polyfill
   - Interpreter
   - Linker
@@ -160,20 +160,20 @@
   - Debugger
   - Tracing
   - Garbage collection
-  - Refactoring
+  - Refactoring  u
   - Code review
   - Exception
   - Unittesting
-  - git
-  - Github
+  - git  u
+  - Github  u
   - Docker
   - Kubernetes
   - GCC
   - LLVM
 - Antipatterns
-  - Magic numbers
-  - Hard code
-  - Soft code
+  - Magic numbers  k
+  - Hard code  k
+  - Soft code  k
   - Cryptic code
   - Improbability factor
   - Accidental complexity
@@ -187,13 +187,13 @@
   - Premature optimization
   - Micro-optimization
   - Nested loops
-  - Long method/function/procedure
+  - Long method/function/procedure  k
   - Long inheritance
   - Large class/file
-  - Too many parameters
+  - Too many parameters  k
   - Pass-through parameters
   - Accumulate and fire
-  - Use switch/case
+  - Use switch/case  k
   - Temporary field
   - Handle object as instances and hashes at the same time
   - Use fields instead of arguments
@@ -214,11 +214,11 @@
   - Ring
   - Virtual memory
   - File system
-  - Linux
+  - Linux  k
   - Unix
   - BSD
-  - MacOS
-  - Windows
+  - MacOS  k
+  - Windows  u
   - Real-time OS
   - Embedded OS
 - Standards
