@@ -9,27 +9,27 @@
   - `String`: 🖐️ used
   - `Symbol`: 🎓 known
   - `Infinity`: 🎓 known
-  - `NaN`: 🎓 known
+  - `NaN`: u
   - `undefined`: 🖐️ used
-  - `null`: 🎓 known
+  - `null`: u
   - `this`: 👂 heard
-  - `instanceof`
-  - `...spread`
-  - `...rest`: 👂 heard
+  - `instanceof`  h
+  - `...spread`  h
+  - `...rest`: k
   - `typeof`: 🖐️ used
-  - Destructuring
+  - Destructuring  u
   - Generators
   - Iterators
   - Async generator
   - Async iterator
-  - Chaining: 🎓 known
-  - Optional chaining: 🎓 known
-  - IIFE
+  - Chaining: u
+  - Optional chaining: u
+  - IIFE  k
   - Async IIFE
   - `global`
   - `globalThis`
   - `window`
-  - Getters and setters
+  - Getters and setters  k
   - `__proto__`: 👂 heard
   - `prototype`
   - Equality operators: 🖐️ used
@@ -42,9 +42,9 @@
   - `await`
   - Template literal
   - Strict mode: 🖐️ used
-  - Hoisting
-  - `delete`
-  - `in`
+  - Hoisting  u
+  - `delete`  u
+  - `in`  u
   - `super`
   - `eval`
   - `static`
@@ -55,9 +55,9 @@
   - Freezing properties
   - Computed properties
   - Instance class fields
-  - Static class fields
-  - Private class fields
-  - Private class methods
+  - Static class fields  k
+  - Private class fields  k
+  - Private class methods  k
 - Statements
   - `if`: 🖐️ used
   - `while`: 🖐️ used
@@ -70,20 +70,20 @@
   - `break`: 🖐️ used
   - `continue`: 🖐️ used
   - `import`: 👂 heard
-  - `export`: 👂 heard
+  - `export`: u
   - `label`: 🎓 known
-  - `try..catch`
+  - `try..catch`  h
   - `switch`: 🎓 known
   - `class`
   - `extends`
   - `with`
-  - `new`
+  - `new`  h
 - Functions
   - Arrow function: 🖐️ used
   - Async function
   - Function declaration: 🖐️ used
   - Function expression: 🖐️ used
-  - Default parameters: 🎓 known
+  - Default parameters: u
   - Functional object
   - `Function.prototype.call`: 🎓 known
   - `Function.prototype.bind`: 🎓 known
@@ -100,18 +100,18 @@
   - `Object.assign`: 🎓 known
 - Standard classes and namespaces
   - `Proxy`
-  - `RegExp`
-  - `Date`
-  - `Math`
+  - `RegExp`  k
+  - `Date`  u
+  - `Math`  u
   - `Reflect`
-  - `Error`
+  - `Error`  h
   - `Atomics`
-  - `JSON`
+  - `JSON`  k
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`
   - `Promise`
-  - `console`
+  - `console`  u
   - Timers
 - Infrastructure
   - V8
