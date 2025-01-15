@@ -1,17 +1,17 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model  k
-  - Modeling  k
+  - Model: 🎓 known
+  - Modeling: 🎓 known
   - Subject domain
-  - Algorithm  k
-  - Syntax  k
+  - Algorithm: 🎓 known
+  - Syntax: 🎓 known
   - Semantics
   - Abstraction
-  - Paradigm  k
-  - Programm  k
-  - Programming paradigm  k
-  - Programming language  k
+  - Paradigm: 🎓 known
+  - Programm: 🎓 known
+  - Programming paradigm: 🎓 known
+  - Programming language: 🎓 known
   - Contract
   - Module
   - Library
@@ -32,17 +32,17 @@
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value  u
-  - Identifier  u
-  - Variable  u
-  - Constant  u
-  - Scalar  k
-  - Literal  k
-  - Expression  k
+  - Value: 🖐️ used
+  - Identifier: 🖐️ used
+  - Variable: 🖐️ used
+  - Constant: 🖐️ used
+  - Scalar: 🎓 known
+  - Literal: 🎓 known
+  - Expression: 🎓 known
   - Heap
-  - Function  u
+  - Function: 🖐️ used
   - Procedure
-  - Method  u
+  - Method: 🖐️ used
   - Class
   - Prototype
   - Event
@@ -51,23 +51,23 @@
   - Lexical scope
   - Code block
   - Conditions
-  - Loops  u
+  - Loops: 🖐️ used
   - Assignment
-  - Regular expression  k
+  - Regular expression: 🎓 known
   - Interface
   - Namespaces
   - Call stack
   - Naming conventions
   - Coding conventions
-  - Camel case  u
-  - Snake case  k
-  - Kebab case  k
-  - Trailing commas  k
+  - Camel case: 🖐️ used
+  - Snake case: 🎓 known
+  - Kebab case: 🎓 known
+  - Trailing commas: 🎓 known
   - Return early
   - Fail-fast
 - Types
-  - Primitive types  u
-  - Reference types  k
+  - Primitive types: 🖐️ used
+  - Reference types: 🎓 known
   - Type systems
   - Strong typing
   - Weak typing
@@ -81,19 +81,19 @@
   - Covariance
   - Contravariance
 - Functions
-  - Signature  k
-  - Argument  k
-  - Parameter  k
-  - Pure function  k
-  - Lambda expression  u
+  - Signature: 🎓 known
+  - Argument: 🎓 known
+  - Parameter: 🎓 known
+  - Pure function: 🎓 known
+  - Lambda expression: 🖐️ used
   - Side effects
-  - Closure  k
+  - Closure: 🎓 known
   - Partial application
   - Currying
   - Higher order
   - Recursion
   - Tail call optimisation
-  - Callback  k
+  - Callback: 🎓 known
   - Listener
   - Composition
   - Pipe
@@ -105,15 +105,15 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array  u
+  - Array: 🖐️ used
   - Structure
   - Record
   - Enum
   - Instance
-  - Object  k
-  - Collection  k
-  - Set  k
-  - Hash table  k
+  - Object: 🎓 known
+  - Collection: 🎓 known
+  - Set: 🎓 known
+  - Hash table: 🎓 known
   - Linked list
   - Doubly list
   - Unrolled list
@@ -146,7 +146,7 @@
   - Just-in-time compilation
   - Ahead-of-time compilation
   - Transpiler
-  - Linter  u
+  - Linter: 🖐️ used
   - Polyfill
   - Interpreter
   - Linker
@@ -160,20 +160,20 @@
   - Debugger
   - Tracing
   - Garbage collection
-  - Refactoring  u
+  - Refactoring: 🖐️ used
   - Code review
   - Exception
   - Unittesting
-  - git  u
-  - Github  u
+  - git: 🖐️ used
+  - Github: 🖐️ used
   - Docker
   - Kubernetes
   - GCC
   - LLVM
 - Antipatterns
-  - Magic numbers  k
-  - Hard code  k
-  - Soft code  k
+  - Magic numbers: 🎓 known
+  - Hard code: 🎓 known
+  - Soft code: 🎓 known
   - Cryptic code
   - Improbability factor
   - Accidental complexity
@@ -187,13 +187,13 @@
   - Premature optimization
   - Micro-optimization
   - Nested loops
-  - Long method/function/procedure  k
+  - Long method/function/procedure: 🎓 known
   - Long inheritance
   - Large class/file
-  - Too many parameters  k
+  - Too many parameters: 🎓 known
   - Pass-through parameters
   - Accumulate and fire
-  - Use switch/case  k
+  - Use switch/case: 🎓 known
   - Temporary field
   - Handle object as instances and hashes at the same time
   - Use fields instead of arguments
@@ -214,11 +214,11 @@
   - Ring
   - Virtual memory
   - File system
-  - Linux  k
+  - Linux: 🎓 known
   - Unix
   - BSD
-  - MacOS  k
-  - Windows  u
+  - MacOS: 🎓 known
+  - Windows: 🖐️ used
   - Real-time OS
   - Embedded OS
 - Standards
