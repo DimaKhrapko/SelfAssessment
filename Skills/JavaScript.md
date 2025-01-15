@@ -9,27 +9,27 @@
   - `String`: 🖐️ used
   - `Symbol`: 🎓 known
   - `Infinity`: 🎓 known
-  - `NaN`: u
+  - `NaN`: 🖐️ used
   - `undefined`: 🖐️ used
-  - `null`: u
+  - `null`: 🖐️ used
   - `this`: 👂 heard
-  - `instanceof`  h
-  - `...spread`  h
-  - `...rest`: k
+  - `instanceof`: 👂 heard
+  - `...spread`: 👂 heard
+  - `...rest`: 🎓 known
   - `typeof`: 🖐️ used
-  - Destructuring  u
+  - Destructuring: 🖐️ used
   - Generators
   - Iterators
   - Async generator
   - Async iterator
-  - Chaining: u
-  - Optional chaining: u
-  - IIFE  k
+  - Chaining: 🖐️ used
+  - Optional chaining: 🖐️ used
+  - IIFE: 🎓 known
   - Async IIFE
   - `global`
   - `globalThis`
   - `window`
-  - Getters and setters  k
+  - Getters and setters: 🎓 known
   - `__proto__`: 👂 heard
   - `prototype`
   - Equality operators: 🖐️ used
@@ -42,9 +42,9 @@
   - `await`
   - Template literal
   - Strict mode: 🖐️ used
-  - Hoisting  u
-  - `delete`  u
-  - `in`  u
+  - Hoisting: 🖐️ used
+  - `delete`: 🖐️ used
+  - `in`: 🖐️ used
   - `super`
   - `eval`
   - `static`
@@ -55,9 +55,9 @@
   - Freezing properties
   - Computed properties
   - Instance class fields
-  - Static class fields  k
-  - Private class fields  k
-  - Private class methods  k
+  - Static class fields: 🎓 known
+  - Private class fields: 🎓 known
+  - Private class methods: 🎓 known
 - Statements
   - `if`: 🖐️ used
   - `while`: 🖐️ used
@@ -70,20 +70,20 @@
   - `break`: 🖐️ used
   - `continue`: 🖐️ used
   - `import`: 👂 heard
-  - `export`: u
+  - `export`: 🖐️ used
   - `label`: 🎓 known
-  - `try..catch`  h
+  - `try..catch`: 👂 heard
   - `switch`: 🎓 known
   - `class`
   - `extends`
   - `with`
-  - `new`  h
+  - `new`: 👂 heard
 - Functions
   - Arrow function: 🖐️ used
   - Async function
   - Function declaration: 🖐️ used
   - Function expression: 🖐️ used
-  - Default parameters: u
+  - Default parameters: 🖐️ used
   - Functional object
   - `Function.prototype.call`: 🎓 known
   - `Function.prototype.bind`: 🎓 known
@@ -100,18 +100,18 @@
   - `Object.assign`: 🎓 known
 - Standard classes and namespaces
   - `Proxy`
-  - `RegExp`  k
-  - `Date`  u
-  - `Math`  u
+  - `RegExp`: 🎓 known
+  - `Date`: 🖐️ used
+  - `Math`: 🖐️ used
   - `Reflect`
-  - `Error`  h
+  - `Error`: 👂 heard
   - `Atomics`
-  - `JSON`  k
+  - `JSON`: 🎓 known
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`
   - `Promise`
-  - `console`  u
+  - `console`: 🖐️ used
   - Timers
 - Infrastructure
   - V8
