@@ -50,20 +50,20 @@
   - Flag
   - Lexical scope
   - Code block
-  - Conditions  u
+  - Conditions: 🖐️ used
   - Loops: 🖐️ used
   - Assignment
   - Regular expression: 🎓 known
   - Interface
   - Namespaces
   - Call stack
-  - Naming conventions  k
-  - Coding conventions  k
+  - Naming conventions: 🎓 known
+  - Coding conventions: 🎓 known
   - Camel case: 🖐️ used
   - Snake case: 🎓 known
   - Kebab case: 🎓 known
   - Trailing commas: 🎓 known
-  - Return early  u
+  - Return early: 🖐️ used
   - Fail-fast
 - Types
   - Primitive types: 🖐️ used
@@ -86,12 +86,12 @@
   - Parameter: 🎓 known
   - Pure function: 🎓 known
   - Lambda expression: 🖐️ used
-  - Side effects  h
+  - Side effects: 👂 heard
   - Closure: 🎓 known
-  - Partial application  h
+  - Partial application: 👂 heard
   - Currying
   - Higher order
-  - Recursion  h
+  - Recursion: 👂 heard
   - Tail call optimisation
   - Callback: 🎓 known
   - Listener
@@ -128,7 +128,7 @@
   - Immutable state
   - Serialization
   - String parsing
-  - JSON  k
+  - JSON: 🎓 known
   - JSON5
   - YAML
 - Networking
@@ -180,13 +180,13 @@
   - Action at a distance
   - Spaghetti
   - Silver bullet
-  - Not invented here 
-  - Dead code  k
-  - Unreachable code  k
-  - Duplicate code  k
+  - Not invented here
+  - Dead code: 🎓 known
+  - Unreachable code: 🎓 known
+  - Duplicate code: 🎓 known
   - Premature optimization
   - Micro-optimization
-  - Nested loops  k
+  - Nested loops: 🎓 known
   - Long method/function/procedure: 🎓 known
   - Long inheritance
   - Large class/file
@@ -214,11 +214,11 @@
   - Ring
   - Virtual memory
   - File system
-  - Linux:
+  - Linux
   - Unix
   - BSD
-  - MacOS:
-  - Windows:  k
+  - MacOS
+  - Windows: 🎓 known
   - Real-time OS
   - Embedded OS
 - Standards
