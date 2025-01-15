@@ -1,11 +1,11 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming  u
-  - Imperative programming  u
-  - Structured programming  u
+  - Procedural programming: 🖐️ used
+  - Imperative programming: 🖐️ used
+  - Structured programming: 🖐️ used
   - Non-structured programming
-  - Functional programming  h
+  - Functional programming: 👂 heard
   - Prototype-based programming
   - Object-oriented programming
   - Object-based programming
