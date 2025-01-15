@@ -1,55 +1,55 @@
 ## JavaScript
 
 - Language
-  - `Object`  u
-  - `Function`  u
-  - `Boolean`  u
-  - `Number`  u
-  - `BigInt`  k
-  - `String`  u
-  - `Symbol`  k
-  - `Infinity`  k
-  - `NaN`  k
-  - `undefined`  u
-  - `null`  k
-  - `this`  h
-  - `instanceof`  
+  - `Object`: 🖐️ used
+  - `Function`: 🖐️ used
+  - `Boolean`: 🖐️ used
+  - `Number`: 🖐️ used
+  - `BigInt`: 🎓 known
+  - `String`: 🖐️ used
+  - `Symbol`: 🎓 known
+  - `Infinity`: 🎓 known
+  - `NaN`: 🎓 known
+  - `undefined`: 🖐️ used
+  - `null`: 🎓 known
+  - `this`: 👂 heard
+  - `instanceof`
   - `...spread`
-  - `...rest`  h
-  - `typeof`  u
+  - `...rest`: 👂 heard
+  - `typeof`: 🖐️ used
   - Destructuring
   - Generators
   - Iterators
   - Async generator
   - Async iterator
-  - Chaining  k
-  - Optional chaining  k
+  - Chaining: 🎓 known
+  - Optional chaining: 🎓 known
   - IIFE
   - Async IIFE
   - `global`
   - `globalThis`
   - `window`
   - Getters and setters
-  - `__proto__`  h
+  - `__proto__`: 👂 heard
   - `prototype`
-  - Equality operators  u
-  - Logical operators  u
-  - Logical Assignment  u
-  - Bitwise operatorsk  k
-  - Ternary operator  u
+  - Equality operators: 🖐️ used
+  - Logical operators: 🖐️ used
+  - Logical Assignment: 🖐️ used
+  - Bitwise operatorsk: 🎓 known
+  - Ternary operator: 🖐️ used
   - `void`
   - `yield`
   - `await`
   - Template literal
-  - Strict mode  u
+  - Strict mode: 🖐️ used
   - Hoisting
   - `delete`
   - `in`
   - `super`
   - `eval`
   - `static`
-  - `Number.parseInt`  u
-  - `Number.parseFloat`  k
+  - `Number.parseInt`: 🖐️ used
+  - `Number.parseFloat`: 🎓 known
   - Property descriptors
   - Sealing properties
   - Freezing properties
@@ -59,45 +59,45 @@
   - Private class fields
   - Private class methods
 - Statements
-  - `if`  u
-  - `while`  u
-  - `do..while`  k
-  - `for`  u
-  - `for..in`  u
-  - `for..of`  u
-  - `for await` 
-  - `throw`  h
-  - `break`  u
-  - `continue`  u
-  - `import`  h
-  - `export`  h
-  - `label`  k
+  - `if`: 🖐️ used
+  - `while`: 🖐️ used
+  - `do..while`: 🎓 known
+  - `for`: 🖐️ used
+  - `for..in`: 🖐️ used
+  - `for..of`: 🖐️ used
+  - `for await`
+  - `throw`: 👂 heard
+  - `break`: 🖐️ used
+  - `continue`: 🖐️ used
+  - `import`: 👂 heard
+  - `export`: 👂 heard
+  - `label`: 🎓 known
   - `try..catch`
-  - `switch`  k
+  - `switch`: 🎓 known
   - `class`
   - `extends`
   - `with`
   - `new`
 - Functions
-  - Arrow function  u
+  - Arrow function: 🖐️ used
   - Async function
-  - Function declaration  u
-  - Function expression  u
-  - Default parameters  k
+  - Function declaration: 🖐️ used
+  - Function expression: 🖐️ used
+  - Default parameters: 🎓 known
   - Functional object
-  - `Function.prototype.call`  k
-  - `Function.prototype.bind`  k
-  - `Function.prototype.apply`  k
-  - `return`  u
+  - `Function.prototype.call`: 🎓 known
+  - `Function.prototype.bind`: 🎓 known
+  - `Function.prototype.apply`: 🎓 known
+  - `return`: 🖐️ used
 - Data structures
-  - `Array`  u
-  - `Map`  k
-  - `Set`  k
+  - `Array`: 🖐️ used
+  - `Map`: 🎓 known
+  - `Set`: 🎓 known
   - `WeakMap`
   - `WeakSet`
   - Typed arrays
   - Mixins
-  - `Object.assign`  k
+  - `Object.assign`: 🎓 known
 - Standard classes and namespaces
   - `Proxy`
   - `RegExp`
@@ -116,7 +116,7 @@
 - Infrastructure
   - V8
   - Node.js
-  - npm  k
-  - prettier  k
-  - MDN  k
+  - npm: 🎓 known
+  - prettier: 🎓 known
+  - MDN: 🎓 known
   - TC39
