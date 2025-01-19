@@ -1,13 +1,13 @@
 ## Software engineering self assessment
 
-[![Skills](https://img.shields.io/badge/Self_Assessment-136&nbsp;/&nbsp;336&nbsp;/&nbsp;736-009933?style=flat-square)](https://github.com/DimaKhrapko/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-137&nbsp;/&nbsp;336&nbsp;/&nbsp;736-009933?style=flat-square)](https://github.com/DimaKhrapko/SelfAssessment/blob/main/Profile/REPORT.md)
 
 ```
-[![Skills](https://img.shields.io/badge/Self_Assessment-136&nbsp;/&nbsp;336&nbsp;/&nbsp;736-009933?style=flat-square)](https://github.com/DimaKhrapko/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-137&nbsp;/&nbsp;336&nbsp;/&nbsp;736-009933?style=flat-square)](https://github.com/DimaKhrapko/SelfAssessment/blob/main/Profile/REPORT.md)
 ```
 
 ```
-<a href="https://github.com/DimaKhrapko/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-136&nbsp;/&nbsp;336&nbsp;/&nbsp;736-009933?style=flat-square"></a>
+<a href="https://github.com/DimaKhrapko/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-137&nbsp;/&nbsp;336&nbsp;/&nbsp;736-009933?style=flat-square"></a>
 ```
 
 ## Assessment totals
@@ -28,7 +28,7 @@
 | &nbsp;&nbsp;&nbsp;&nbsp; Standards | `0` | `15` |
 | [JavaScript](/Skills/JavaScript.md) | | |
 | &nbsp;&nbsp;&nbsp;&nbsp; Language | `36` | `57` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Statements | `15` | `19` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Statements | `16` | `19` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Functions | `8` | `10` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Data structures | `4` | `8` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Standard classes and namespaces | `6` | `14` |
@@ -88,7 +88,7 @@
 | `throw` | 👂 heard | ⟶  | 🖐️ used |
 | `import` | 👂 heard | ⟶  | 🎓 known |
 | `try..catch` | 👂 heard | ⟶  | 🎓 known |
-| `class` | 🤷 unknown | ⟶  | 🖐️ used |
+| `class` | 👂 heard | ⟶  | 🖐️ used |
 | `extends` | 🤷 unknown | ⟶  | 🖐️ used |
 | `new` | 👂 heard | ⟶  | 🖐️ used |
 | Async function | 🤷 unknown | ⟶  | 🎓 known |
@@ -104,7 +104,7 @@
 | Timers | 🤷 unknown | ⟶  | 🖐️ used |
 | V8 | 🤷 unknown | ⟶  | 👂 heard |
 
-Total: you have `36` of `72` skills, `36` to be upgraded, and `7` above needed
+Total: you have `36` of `72` skills, `36` to be upgraded, and `6` above needed
 
 | To start Node.js | actual | ⟶  | required |
 | --- | --- | --- | --- |
@@ -123,7 +123,7 @@ Total: you have `36` of `72` skills, `36` to be upgraded, and `7` above needed
 | Async IIFE | 🤷 unknown | ⟶  | 🖐️ used |
 | `global` | 🤷 unknown | ⟶  | 🖐️ used |
 | `globalThis` | 🤷 unknown | ⟶  | 🖐️ used |
-| Getters and setters | 🎓 known | ⟶  | 🖐️ used |
+| Getters and setters | 👂 heard | ⟶  | 🖐️ used |
 | `void` | 🤷 unknown | ⟶  | 🖐️ used |
 | `yield` | 🤷 unknown | ⟶  | 🖐️ used |
 | `await` | 🤷 unknown | ⟶  | 🖐️ used |
@@ -142,7 +142,7 @@ Total: you have `36` of `72` skills, `36` to be upgraded, and `7` above needed
 | `throw` | 👂 heard | ⟶  | 🖐️ used |
 | `import` | 👂 heard | ⟶  | 🖐️ used |
 | `try..catch` | 👂 heard | ⟶  | 🖐️ used |
-| `class` | 🤷 unknown | ⟶  | 🖐️ used |
+| `class` | 👂 heard | ⟶  | 🖐️ used |
 | `extends` | 🤷 unknown | ⟶  | 🖐️ used |
 | `new` | 👂 heard | ⟶  | 🖐️ used |
 | Async function | 🤷 unknown | ⟶  | 🖐️ used |
