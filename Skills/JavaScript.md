@@ -55,9 +55,9 @@
   - Freezing properties
   - Computed properties
   - Instance class fields
-  - Static class fields: 🎓 known
-  - Private class fields: 🎓 known
-  - Private class methods: 🎓 known
+  - Static class fields:
+  - Private class fields:
+  - Private class methods: 
 - Statements
   - `if`: 🖐️ used
   - `while`: 🖐️ used
