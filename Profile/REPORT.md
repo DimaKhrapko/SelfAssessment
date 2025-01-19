@@ -1,13 +1,13 @@
 ## Software engineering self assessment
 
-[![Skills](https://img.shields.io/badge/Self_Assessment-137&nbsp;/&nbsp;336&nbsp;/&nbsp;736-009933?style=flat-square)](https://github.com/DimaKhrapko/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-134&nbsp;/&nbsp;336&nbsp;/&nbsp;736-009933?style=flat-square)](https://github.com/DimaKhrapko/SelfAssessment/blob/main/Profile/REPORT.md)
 
 ```
-[![Skills](https://img.shields.io/badge/Self_Assessment-137&nbsp;/&nbsp;336&nbsp;/&nbsp;736-009933?style=flat-square)](https://github.com/DimaKhrapko/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-134&nbsp;/&nbsp;336&nbsp;/&nbsp;736-009933?style=flat-square)](https://github.com/DimaKhrapko/SelfAssessment/blob/main/Profile/REPORT.md)
 ```
 
 ```
-<a href="https://github.com/DimaKhrapko/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-137&nbsp;/&nbsp;336&nbsp;/&nbsp;736-009933?style=flat-square"></a>
+<a href="https://github.com/DimaKhrapko/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-134&nbsp;/&nbsp;336&nbsp;/&nbsp;736-009933?style=flat-square"></a>
 ```
 
 ## Assessment totals
@@ -27,7 +27,7 @@
 | &nbsp;&nbsp;&nbsp;&nbsp; Operating systems | `1` | `13` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Standards | `0` | `15` |
 | [JavaScript](/Skills/JavaScript.md) | | |
-| &nbsp;&nbsp;&nbsp;&nbsp; Language | `36` | `57` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Language | `33` | `57` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Statements | `16` | `19` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Functions | `8` | `10` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Data structures | `4` | `8` |
@@ -84,6 +84,8 @@
 | Template literal | 🤷 unknown | ⟶  | 🖐️ used |
 | `super` | 🤷 unknown | ⟶  | 🖐️ used |
 | `static` | 🤷 unknown | ⟶  | 👂 heard |
+| Private class fields | 🤷 unknown | ⟶  | 🎓 known |
+| Private class methods | 🤷 unknown | ⟶  | 🎓 known |
 | `for await` | 🤷 unknown | ⟶  | 👂 heard |
 | `throw` | 👂 heard | ⟶  | 🖐️ used |
 | `import` | 👂 heard | ⟶  | 🎓 known |
@@ -104,7 +106,7 @@
 | Timers | 🤷 unknown | ⟶  | 🖐️ used |
 | V8 | 🤷 unknown | ⟶  | 👂 heard |
 
-Total: you have `36` of `72` skills, `36` to be upgraded, and `6` above needed
+Total: you have `34` of `72` skills, `38` to be upgraded, and `6` above needed
 
 | To start Node.js | actual | ⟶  | required |
 | --- | --- | --- | --- |
@@ -137,6 +139,9 @@ Total: you have `36` of `72` skills, `36` to be upgraded, and `6` above needed
 | Freezing properties | 🤷 unknown | ⟶  | 🎓 known |
 | Computed properties | 🤷 unknown | ⟶  | 🎓 known |
 | Instance class fields | 🤷 unknown | ⟶  | 🎓 known |
+| Static class fields | 🤷 unknown | ⟶  | 🎓 known |
+| Private class fields | 🤷 unknown | ⟶  | 🎓 known |
+| Private class methods | 🤷 unknown | ⟶  | 🎓 known |
 | `do..while` | 🎓 known | ⟶  | 🖐️ used |
 | `for await` | 🤷 unknown | ⟶  | 🖐️ used |
 | `throw` | 👂 heard | ⟶  | 🖐️ used |
@@ -165,7 +170,7 @@ Total: you have `36` of `72` skills, `36` to be upgraded, and `6` above needed
 | V8 | 🤷 unknown | ⟶  | 🖐️ used |
 | Node.js | 🤷 unknown | ⟶  | 👂 heard |
 
-Total: you have `42` of `98` skills, `56` to be upgraded, and `4` above needed
+Total: you have `39` of `98` skills, `59` to be upgraded, and `4` above needed
 
 ## [Async](/Skills/Async.md)
 
