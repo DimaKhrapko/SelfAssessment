@@ -29,7 +29,7 @@
   - `global`
   - `globalThis`
   - `window`
-  - Getters and setters: 🎓 known
+  - Getters and setters: h
   - `__proto__`: 👂 heard
   - `prototype`
   - Equality operators: 🖐️ used
@@ -74,7 +74,7 @@
   - `label`: 🎓 known
   - `try..catch`: 👂 heard
   - `switch`: 🎓 known
-  - `class`
+  - `class`  h
   - `extends`
   - `with`
   - `new`: 👂 heard
